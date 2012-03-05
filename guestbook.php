@@ -1,0 +1,1 @@
+<?php echo "<h1> G&auml;stebuch </h1>"; ?>
